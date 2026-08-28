@@ -121,5 +121,3 @@ if st.session_state.get("is_ended", False):
 
 st.divider()
 st.write("นาย ปณิธาน แก้วอาจ ม.4/7 เลขที่ 25 ")
-
-```

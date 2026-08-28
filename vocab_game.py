@@ -1,6 +1,3 @@
-นี่คือโค้ดที่ทำการเพิ่มข้อ 3 (💻 Laptop) และข้อ 4 (✂️ Scissors) พร้อมปรับปรุงส่วนของ `session_state`, Dialog สรุปผล, ตัวตรวจคำตอบ และการคำนวณคะแนนรวมเป็น 4 คะแนนครับ
-
-```python
 import time
 import streamlit as st
 
